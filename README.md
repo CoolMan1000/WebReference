@@ -5,7 +5,7 @@
 </p>
 
 # WebReference
-Web 개발시 필요한 자료를 기술 하였다.
+Web 개발시 필요한 자료를 기술 하였다..
 
 ## FireBase Documentation
 FireBase의 Web Push Messaging에 대하여 설명

@@ -1,5 +1,5 @@
 # WebReference
-Web 개발시 필요한 자료를 기술 하였다.
+Web 개발시 필요한 자료를 기술 하였다..
 
 참고사항
 - [FireBase Documentation](#firebase-documentation)
